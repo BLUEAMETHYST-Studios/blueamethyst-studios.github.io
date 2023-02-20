@@ -1,15 +1,9 @@
-
-
 body {
-
     background-image: url("https://raw.githubusercontent.com/BLUEAMETHYST-Studios/website-resources/main/web_bg.png");
     background-size: 2500px 2500px;
-
-
 }
 
 h1 {
-
     border-radius: 20px;
     border-style: ridge;
     margin-top: 3%;
@@ -19,20 +13,13 @@ h1 {
     font-family: monospace;
     color: aqua;
     background-color: rgba(0, 0, 0, 0.5);
-
-
 }
 
 h1:hover {
-
-    
     transform: scale(0.9);
-
 }
 
-
 p {
-    
     border-radius: 20px;
     margin-top: 7%;
     margin-right: 20%;
@@ -40,21 +27,14 @@ p {
     background-color: rgba(0, 0, 0, 0.5);
     font-size: 45px;
     font-family: monospace;
-
 }
 
 img {
-
-    
     margin-top: 30%;
     margin-left: 15%
-    
-
 }
 
 img:hover {
-
     opacity: 0.95;
     transform: scale(0.95);
-
 }
