@@ -30,6 +30,11 @@ p {
     font-family: monospace;
 }
 
+p:hover {
+    transform: scale(1.1);
+    transition-duration: 0.3s;
+}
+
 img {
     margin-top: 30%;
     margin-left: 15%
