@@ -23,12 +23,14 @@ h1:hover {
 
 p {
     border-radius: 20px;
-    margin-top: 7%;
+    margin-top: 3%;
     margin-right: 20%;
     color: blue;
     background-color: rgba(0, 0, 0, 0.5);
     font-size: 45px;
     font-family: monospace;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 p:hover {
@@ -38,7 +40,7 @@ p:hover {
 }
 
 img {
-    margin-top: 30%;
+    margin-top: 10%;
     margin-left: 15%
 }
 
