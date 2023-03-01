@@ -39,6 +39,10 @@ p:hover {
     cursor: default;
 }
 
+h3 {
+    margin-left: 9%;
+}
+
 img {
     margin-top: 10%;
     margin-left: 15%
